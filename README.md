@@ -1,2 +1,2 @@
 # git_demo
-Demo for new Python students
+Baseline commands for new Python students.
